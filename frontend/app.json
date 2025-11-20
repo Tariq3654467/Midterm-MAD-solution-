@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "frontend",
-    "slug": "coffeeshop-iyx9tt1jzbvwd8no6nn76",
+    "name": "Coffee Shop",
+    "slug": "coffeeapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
