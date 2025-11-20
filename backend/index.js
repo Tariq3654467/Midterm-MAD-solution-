@@ -70,8 +70,5 @@ app.get('/menu/random', async (req, res) => {
 });
 
 // Server start
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`Coffee shop server running on port ${PORT}`);
-});
+module.exports = app;
 
